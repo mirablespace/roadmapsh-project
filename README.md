@@ -17,3 +17,4 @@ This project is part of my learning journey based on roadmap.sh — I will log m
 ## 📌 Status
 
 Still in progress — more updates will come as I continue learning!
+Current Project: [https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
